@@ -1,6 +1,6 @@
 # deep_dive_covid19
 
-This is a group project for CS525:Information Retrieval and Social Web.
+This is a group project for CS525:Information Retrieval and Social Web. 02/03/2020-05/12/2020
 
 Base Structure: Django
 
