@@ -13,4 +13,5 @@ Usage:
 command line: cd (absolute path of the folder "cs525project")->python3 manage.py runserver->broswer url:http://127.0.0.1:8000/mysearch
 
 Possible errors:
-python import error. Solution: pip3 install (missing package)
+python import error->Solution: pip3 install (missing package)
+file not found error->Solution: change absolute file path of the databse file and image src in the code
