@@ -30,5 +30,5 @@ command line: cd (absolute path of the folder "cs525project")->python3 manage.py
 * file not found error->Solution: change absolute file path of the databse file and image src in the code
 
 ## Demo
-https://drive.google.com/file/d/1-E7RDoPDL4EUcwX8G-hBtA8vj9IdmuC6/view?usp=sharing
+[Demo Video](https://drive.google.com/file/d/1-E7RDoPDL4EUcwX8G-hBtA8vj9IdmuC6/view?usp=sharing)
 
