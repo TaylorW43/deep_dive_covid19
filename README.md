@@ -15,6 +15,13 @@ Django
 * A search engine specially built for the CORD dataset
 * Whole dataset and search result analysis, clustering and visualization 
 
+## Algorithms/Method Used:
+* Ranking: BM25 Okapi
+* Clustering: PCA & t-SNE & K-means
+* Topic Model: LDA
+* Text Preprocessing: Language Filtering, Stopwords, Stemming, Vectorization
+* <img width="601" alt="Screen Shot 2021-03-10 at 10 10 44" src="https://user-images.githubusercontent.com/63271980/110650645-bb217700-8188-11eb-9563-fd2cdf2b10f9.png">
+
 ## Usage:
 command line: cd (absolute path of the folder "cs525project")->python3 manage.py runserver->broswer url:http://127.0.0.1:8000/mysearch
 
